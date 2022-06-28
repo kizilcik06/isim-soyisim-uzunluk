@@ -1,6 +1,6 @@
 # isim-soyisim-uzunluk
 
-String isimler = "Batuhan, Bengisu, Beyza, Bora, Emircan, Emir, İnci, İsmail";
+    String isimler = "Batuhan, Bengisu, Beyza, Bora, Emircan, Emir, İnci, İsmail";
     String soyisimler = "Kaya, Durmus, Aktas, Evren, Aydın, Yildiz, Cumen, Aytar";
     String[] arrSplitisim = isimler.split(", ");
     String[] arrSplitsoyisim = soyisimler.split(", ");
